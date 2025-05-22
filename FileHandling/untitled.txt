@@ -1,0 +1,11 @@
+Writing inside the untitled 
+file and data if already in file of 
+that name is lost and if file with 
+that name is 't there it is madeAfter loop of reading all lines we are writing as pointer has reached to '', we can apply while loop as well
+After loop of reading all lines we are writing as pointer has reached to '', we can apply while loop as well
+After loop of reading all lines we are writing as pointer has reached to '', we can apply while loop as well
+After loop of reading all lines we are writing as pointer has reached to '', we can apply while loop as well
+After loop of reading all lines we are writing as pointer has reached to '', we can apply while loop as well
+After loop of reading all lines we are writing as pointer has reached to '', we can apply while loop as well
+After loop of reading all lines we are writing as pointer has reached to '', we can apply while loop as well
+After loop of reading all lines we are writing as pointer has reached to '', we can apply while loop as well
